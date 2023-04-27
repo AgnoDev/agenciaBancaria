@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f381f196-1973-40c4-ae84-82f415c4564f" name="Changes" comment="configura classe Utils - formata valores e data">
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Conta.java" afterDir="false" />
+    <list default="true" id="f381f196-1973-40c4-ae84-82f415c4564f" name="Changes" comment="implementa metodos 'depositar', 'sacar' e 'transferir' na classe Conta">
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/AgenciaBancaria.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Conta.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +41,20 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.AgenciaBancaria">
+    <configuration name="AgenciaBancaria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="service.AgenciaBancaria" />
+      <module name="AgenciaBancaria" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="AgenciaBancaria" />
@@ -55,6 +70,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AgenciaBancaria" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -89,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682570476974</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="implementa metodos 'depositar', 'sacar' e 'transferir' na classe Conta">
+      <created>1682571600693</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682571600693</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +130,7 @@
     <MESSAGE value="inicia projeto Agencia Bancaria" />
     <MESSAGE value="implementa classe Cliente" />
     <MESSAGE value="configura classe Utils - formata valores e data" />
-    <option name="LAST_COMMIT_MESSAGE" value="configura classe Utils - formata valores e data" />
+    <MESSAGE value="implementa metodos 'depositar', 'sacar' e 'transferir' na classe Conta" />
+    <option name="LAST_COMMIT_MESSAGE" value="implementa metodos 'depositar', 'sacar' e 'transferir' na classe Conta" />
   </component>
 </project>
