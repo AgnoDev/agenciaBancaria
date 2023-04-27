@@ -17,12 +17,12 @@ public class AgenciaBancaria {
     public static void operacoes() {
         int operacao =
                 Integer.parseInt(JOptionPane.showInputDialog("Selecione uma operação" +
-                        "|   Opção 1 - Criar conta   |" +
-                        "|   Opção 2 - Depositar     |" +
-                        "|   Opção 3 - Sacar         |" +
-                        "|   Opção 4 - Transferir    |" +
-                        "|   Opção 5 - Listar        |" +
-                        "|   Opção 6 - Sair          |"));
+                        "\n|   Opção 1 - Criar conta   |" +
+                        "\n|   Opção 2 - Depositar     |" +
+                        "\n|   Opção 3 - Sacar         |" +
+                        "\n|   Opção 4 - Transferir    |" +
+                        "\n|   Opção 5 - Listar        |" +
+                        "\n|   Opção 6 - Sair          |"));
 
         switch (operacao) {
             case 1:

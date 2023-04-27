@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f381f196-1973-40c4-ae84-82f415c4564f" name="Changes" comment="incrementa JOptionPane nas classes" />
+    <list default="true" id="f381f196-1973-40c4-ae84-82f415c4564f" name="Changes" comment="configura JOptionPane no 'listarContas'">
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/AgenciaBancaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/AgenciaBancaria.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,7 +116,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682577221520</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="finish commit">
+      <created>1682577309132</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682577309132</updated>
+    </task>
+    <task id="LOCAL-00007" summary="configura JOptionPane no 'listarContas'">
+      <created>1682577476416</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1682577476416</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +150,8 @@
     <MESSAGE value="configura classe Utils - formata valores e data" />
     <MESSAGE value="implementa metodos 'depositar', 'sacar' e 'transferir' na classe Conta" />
     <MESSAGE value="incrementa JOptionPane nas classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="incrementa JOptionPane nas classes" />
+    <MESSAGE value="finish commit" />
+    <MESSAGE value="configura JOptionPane no 'listarContas'" />
+    <option name="LAST_COMMIT_MESSAGE" value="configura JOptionPane no 'listarContas'" />
   </component>
 </project>
