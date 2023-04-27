@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f381f196-1973-40c4-ae84-82f415c4564f" name="Changes" comment="inicia projeto Agencia Bancaria">
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f381f196-1973-40c4-ae84-82f415c4564f" name="Changes" comment="implementa classe Cliente">
+      <change afterPath="$PROJECT_DIR$/src/main/java/utilitarios/Utils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682569498533</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="implementa classe Cliente">
+      <created>1682570126286</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682570126286</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,6 +97,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="inicia projeto Agencia Bancaria" />
-    <option name="LAST_COMMIT_MESSAGE" value="inicia projeto Agencia Bancaria" />
+    <MESSAGE value="implementa classe Cliente" />
+    <option name="LAST_COMMIT_MESSAGE" value="implementa classe Cliente" />
   </component>
 </project>
